@@ -1,0 +1,28 @@
+* Spaces
+** DONE San Francisco
+*** Noisebridge :yan:
+** DONE Boston/Cambridge
+*** Media Lab :willow:noah:
+** DONE Berlin
+*** C-Base :sam:
+** DONE Chicago
+   which one?
+** TODO Seattle
+   Jigsaw?
+   Get amazon to provide space?
+** TODO Austin
+*** ATX Hackerspace :danjared:noah:
+** TODO Paris
+** TODO Bangalore
+** TODO Tokyo
+** TODO Amsterdam
+** TODO NYC
+*** Resistor?
+* Projects
+** Map light :SF:
+*** http://maplight.org/
+*** TODO Contact Dan Neuman
+** Internet Archive
+*** Talk to brewster
+** Public Resource
+*** Talk to Carl
